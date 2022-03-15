@@ -1,2 +1,2 @@
-# NST-AI-to-create-art
+# NST, using AI to create art
 NST was first introduced in 2015 [paper](https://arxiv.org/abs/1508.06576) it took advantage of how convolution neural network works, The system uses neural representations to separate and recombine content and style of arbitrary images. In simple words, it transfer the style from one image to another and their weights. The results vary depending on style image and the content image. In this notebook, it is designed in a way where you can easily use the Neural Style transfer with your own images with minimum adjustments.
