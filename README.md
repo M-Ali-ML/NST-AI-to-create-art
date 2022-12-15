@@ -17,7 +17,7 @@ The results will vary dramatically depending on the parameters you use, you can 
 
 ![github image of result 2](https://raw.githubusercontent.com/MightyStud/NST-AI-to-create-art/main/diagrams/showcase.png)
 
-[Timelapse video on youtube](https://youtu.be/ERyrYhHjTNU)
+## [![Youtube Link](other/youtube_logo.png)](https://youtu.be/ERyrYhHjTNU) [Timelapse Video on YouTube](https://youtu.be/ERyrYhHjTNU)
 
 
 # References and heavy influencers:
